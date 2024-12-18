@@ -1,4 +1,5 @@
 **THE SP GALLERY**
+![](Capstone_Architecture.drawio.png)
 
 **Project Title and Description**
 Our project name is the SP gallery
